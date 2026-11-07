@@ -9,7 +9,6 @@ Welcome to my Computer Vision learning journey! This repository contains my prac
 *   **`image_process.py`**: Basic image processing including converting to grayscale and edge detection (Canny algorithm).
 *   **`camera_test.py`**: Real-time video capture using the webcam, applying a real-time grayscale filter.
 *   **`face_detect.py`**: Real-time face detection using Haar Cascades. Draws green bounding boxes around detected faces.
-*   * **03-Pointer-and-Memory**: Learned C pointers, array-pointer relationship, and dynamic memory allocation (malloc/free).
 
 ## 🛠️ Technologies Used
 *   Python 3
